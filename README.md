@@ -7,6 +7,8 @@ For more detail, please visit:
 
 > [React Redux Login, Logout, Registration example (using React Components)](https://bezkoder.com/react-redux-jwt-auth/)
 
+> [Sesion Token expiration (without Redux)](https://www.bezkoder.com/handle-jwt-token-expiration-react/)
+
 Fullstack (JWT Authentication & Authorization example):
 > [React + Spring Boot](https://bezkoder.com/spring-boot-react-jwt-auth/)
 
